@@ -1,0 +1,27 @@
+/*Stile moderno e font color */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(187, 187, 187);
+    background-color: rgb(46, 46, 46);
+}
+
+.center {
+    text-align: center;
+}
+
+.new_york_times {
+    font-weight: bold;
+    font-family: 'UnifrakturCook', serif;
+}
+
+h1 {
+    font-size: 3em;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+p {
+    font-size: 1.05em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
